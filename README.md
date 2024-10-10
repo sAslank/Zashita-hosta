@@ -23,6 +23,11 @@
 2. Добавьте пользователя cryptouser.
 3. Зашифруйте домашний каталог пользователя с помощью eCryptfs.
 
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/1.1.jpg)
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/1.2.jpg)
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/1.3.jpg)
 
 *В качестве ответа  пришлите снимки экрана домашнего каталога пользователя с исходными и зашифрованными данными.*  
 
@@ -31,6 +36,14 @@
 1. Установите поддержку **LUKS**.
 2. Создайте небольшой раздел, например, 100 Мб.
 3. Зашифруйте созданный раздел с помощью LUKS.
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/2.2.jpg)
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/2.3.jpg)
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/2.4.jpg)
+
+![alt text](https://github.com/sAslank/Zashita-hosta/blob/main/img/2.5.jpg)
 
 *В качестве ответа пришлите снимки экрана с поэтапным выполнением задания.*
 
